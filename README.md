@@ -12,7 +12,8 @@ L'objectif : ingérer un lot de documents financiers bruts, les parser automatiq
 
 | Avant — PDF brut | Après — Table structurée |
 |:---:|:---:|
-| ![Facture PDF brute](https://github.com/JBaptisteAll/dbt_tuto/blob/main/assets/before.png) | ![Table invoices extraite](https://github.com/JBaptisteAll/dbt_tuto/blob/main/assets/after.png) |
+| ![Facture PDF brute](https://github.com/JBaptisteAll/Databricks_IDP_Project/blob/main/assets/before.png) | ![Table invoices extraite](https://github.com/JBaptisteAll/Databricks_IDP_Project/blob/main/assets/after.png) |
+
 
 > Chaque PDF est ingéré tel quel. En sortie : une ligne par document, avec tous les champs clés extraits et typés automatiquement.
 
